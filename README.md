@@ -4,7 +4,7 @@
 
 # Hi there 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Undergraduate+IT+Student+at+SLIIT;Exploring+Web+Development;Learning+Data+Science;Always+Growing+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Undergraduate+IT+Student+at+SLIIT;Exploring+Web+Development;Always+Growing)
 
 ---
 
