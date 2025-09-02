@@ -40,11 +40,6 @@
 
 ---
 
-## ✨ Fun Animated IT Section
-<p align="center">
-  <img src="https://i.ibb.co/7ytkHkF/programming-code-animation.gif" alt="Programming Animation" width="700"/>
-</p>
 
----
 
 ⭐️ *Feel free to check out my repositories and projects!*
